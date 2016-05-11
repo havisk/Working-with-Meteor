@@ -3,3 +3,4 @@
 #Tech Used
 ##Meteor
 ##Bootstrap
+##jquery
