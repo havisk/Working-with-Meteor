@@ -8,5 +8,10 @@
 </body>
 
 <template name="images">
-	<img src="mygear.jpg" alt="my music gear"/>
+  {{#each images}}
+
+	<img src="{{img_src}}" alt="{{img_alt}}"/>
+
+  {{/each}}
+
 </template>
