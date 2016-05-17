@@ -1,4 +1,4 @@
-#Image Share app using Meteor JS
+#Image Gallery app using Meteor JS
 #
 #Tech Used
 ##Meteor
