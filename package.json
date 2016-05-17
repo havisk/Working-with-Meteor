@@ -1,0 +1,19 @@
+{
+  "name": "week_1_image_share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image_share.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havisk/Working-with-Meteor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havisk/Working-with-Meteor/issues"
+  },
+  "homepage": "https://github.com/havisk/Working-with-Meteor#readme"
+}

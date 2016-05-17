@@ -4,3 +4,6 @@
 ##Meteor
 ##Bootstrap
 ##jquery
+#
+#
+#To erase data from database type meteor reset in terminal
